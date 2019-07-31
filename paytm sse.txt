@@ -1,0 +1,207 @@
+Print binary tree in reverse order from bottom level to top in spiral way. Some question on multithreading and design pattern.  
+LCA of BST  
+I was interviewed at paytm for noida location. The interview consisted of 5 rounds in which four were technical and one was techno-functional(more of a decision making). Some rounds were really grilling and some were quite easy.
+
+Interview Questions
+First round(35-40 mins) :: tree traversal, add two numbers in linked list, linked list reversal and couple of general web questions. Interviewer was interested in code than pseudo-code. Interviewer was almost friendly to me.  
+
+Answer Question
+Second round( :: It was really grilling. Interviewer seemed pretty intelligent but RUDE too. Before i answer any question, he questions again. It was pretty frustrating. He wanted to understand, how a complete web request works like apache, front controller., etc. He wanted to understand the design patterns, their usage and problems.
+Algo question :: Given an array of 0's and 1's in any order. Find how may 0's to flipped to make maximum consecutive 1's.  
+Answer Question
+Show Less
+Third round(1 hour) :: It was very cool. Interviewer was very friendly, very helpful. He also wanted to understand design patterns but in depth. This round is more of a designing round. He asked so many things about database, cache, web request, APIs designing to name a few.
+Whatever i said, he wanted to understand all so i was careful not to say so many technical stuffs.  
+Answer… 
+Show Less
+Fourth round(35-40 mins) :: Again, Interviewer was very friendly, very helpful and wanted code rather pseudo-code.
+1) tree traversals, implement stack using queue and one puzzle.  
+Answer Question
+fifth round(30 mins max) :: This round was with General manager of some paytm services.
+He wanted to understand what approach i take if i were to design something, database, exception handling and all. He also asked about services, web requests, APIs, etc.  
+Asked all questions from geeksfromgeeks and even expecting the same answers written there, if you tell other algorithm or ans they are not ready to accept it, interviewers are rude and thinks they are the champions, they took interview in rejection mode.
+
+Some of questions are:-
+1. Binary Search implementation
+2. Matrix Traversals (DFS/BFS)
+3. Hashing  
+
+Questions were mainly focused on Java Spring, Cassandra, Elasticsearch, and MVC framework. I like it because I can totally relate it to the team I was being interviewed for. No irrelevant questions from Data-structure and Algorithm. I was asked a few simple questions from tree data-structure and a tough puzzle.
+Second largest element in the array 
+
+Wap to print left view of a binary tree  
+Answer Question
+Find an element in sorted but rotated array  
+Answer Question
+Find all permutations of a string  
+Answer Question
+Design database to display passbook of a bank customer  
+
+
+Interview process was easy . Not that tough . I went to drive on 6th may . Being a pool drive for experienced candidates, they did not bother to offer food to candidates. Also process was quiet unprofessional . Parallel interviews were being taken by individual to finish interview process as soon as possible . My whole process went good but they didn't hire me , dont know why .
+Interview Process
+1st round was online coding 2 questions , one was to find if number is sum of a particular number and its reverse . For example , given 121 ,we will return one because it is sum of 92 and 29 .2nd question was easy one .
+I answered almost every question correct , but they did not hire me , don't know why .
+Show Less
+
+Interview Questions
+
+Sorting a linked list, reversing a linked list , shortest path algorithm , Horizontal scaling , Vertical scaling , Design questions , design bookmyshow . Implement 3 stacks out if one array 
+
+ interviewed for Paytm Money. I would strongly suggest - stay away from them. The interviewers were not experienced, did not know what to ask. 2 guys out of three did not even bother to introduce themselves. They could even understand my solutions to their questions. They had one solution in mind and if you solve it differently they could not understand the solution even after going through the code line by line.
+First Round: Started 1 hour late. No introduction from the interviewer. He could not understand a simple recursive answer to the question he asked. He had a different solution in mind and his uneasiness was visible on seeing a different solution.
+Second Round: This was the relatively the most professional round, which is saying a lot in their case. Pretty elementary questions like In order binary traversal, HashMaps, Exception Handling were asked.
+Third Round: This was the least professional of all. The interviewer was very intimidating. The questions asked looked like it was taken from what you would get when you search for "100 Java interview questions" on google. He did not welcome different answers to his MCQ like questions. I was asked to explain Spring Dependency Injection which I did using examples showing what DI is and how it works. He was very impatient and blatantly said I was wrong. I told him, if you let me finish you will see I am not wrong.
+The last question which he asked was based on DFS. He was surprised I solved it and wrote the code on paper (facepalm). He took the paper at the end and told me he would run it on his computer to check if it works or not.
+After three rounds on one day, HR asked me to come for three more rounds on a later date. I had to decline citing the unprofessional and ignorant interviewers.
+Show Less
+
+Interview Questions
+
+Flatten a nested map.  
+Answer Question
+Binary Search on a rotated array.  
+Answer Question
+In order traversal using stacks.  
+Answer Question
+Hashmap implementation related questions.  
+Answer Question
+A 2D matrix of 0s and 1s is given. The 1s are adjacent to one other horizontally, vertically and diagonally. Find of the max count of such adjacent 1s.
+
+I interviewed for Paytm in month of January and there were 5 rounds.
+First one was online coding test that was an hour long and had two question.
+Next three rounds were technical. First technical rounds was on algorithms(Arrays Questions), Second was Data structure and algorithm round(Binary Tree, Arrays) and third was managerial cum technical Round(deep discussion on projects)
+
+Interview Questions
+
+Round 1.
+
+1. Given a string with each words are rotated by character corresponding to a given number (k>=1) , find out how many words can be identified as not rotated about given number. Basically check whether words about given index are palidromes or not, as rotation about middle index of plaondromes gives the original word.
+
+2. Given three arrays and number of towns . Array one has starting location of towns . Array two has ending location of towns . Array three has cost of raising wires from town one and two. Device an algorithm to find path from one town to another with least cost( should cover all the towns )
+
+Q. How does volatile keywords works? Does it flushes variable value into hard disk whenever there is a modification ? From where other threads read this variable : from cache of a core or always from a hard disk ?
+
+Round 2 :
+
+Q.Device a data structure which gives following operations guarantee in O(1)
+
+1. Elements should be added from end ?
+
+2. Popping elememts gives last added elements?
+
+3. Get min gives min elements of array
+
+4. Get max gives max element of array
+
+Q. Print a level order traversal .
+
+Q. Print a reverse level order traversal with elements from left side of a particular height of tree comes first .
+
+Q. Explain what's spring ? What's IOC AND AOP , with examples and use case ?
+
+Q. Explain what's hibernate , and why do we need them ? How to use hibernates implements many to one relationship and how to map inheritance of Java to tables using hibernate ?
+
+Q. Explain diamond problem ? From java 8 , default methods are allowed in interfaces, why doesn't this diamond problem arises with default methods ( first explain does there any chance of diamond problem , if yes how java avoids it )
+
+Q. Given a string. Find all palindromes that can be formed. (Characters choosen for palindromes doesnt necessarily need to be in contiguous)
+
+Q. Given an array of 0's and 1's . Device an algorithm to find maximum contiguous 1's that can be formed after flipping k (k>=1) , elements containing 0's
+
+Round 3.
+
+Everything was related to resume in this round.
+
+Q. Choose any two projects that you want to discuss ? Now choose one which you would like to explain and give reasons why did you chooses this one instead of another one ?
+
+Q. Explain business requirement of choosen project on board. Create flow chart ?
+
+Q. Now explain tools and technologies that you used and why did you choose them ?
+
+Q. Explain docker and Kubernetes ?
+
+Q. Explain why devops methodolgy should be choosen over Agile ?
+
+Round 4: ( Hr round )
+
+Discussion on salary ?
+
+Why did you switch job so often ?
+
+What are other companies in which you are having discussions ?
+
+What's would be the amount that if we pay , you would definitely join our firm ?
+
+Ur notice period and can I be bought ?
+
+
+ am adding review to make leaders understand how the interview is being taken here.
+1 round:he told he will ask one programming and one design.
+find second largest element in the array? He went out .I dont understand why the interviewer goes out ,if he had work he should not be taking interview.He should be their to understand how the candidate thinking to solve the problem
+he came back after 10min and i explained the solution that i have written.
+design uber?
+I hate this kind of question.As it is process of years of many architects to design uber.
+I gave solution as per my understanding
+Second round:
+This was interview with answers for me.He did ask question and he did answer himself and he was expecting me to give gap in this answer.
+It was designing messaging queue ,sending messages to users .
+explain me Oauth flow?he went out for 10min and came back.
+I did give what is happening in our product.He was expecting what is happening in google oauth flow.there is a difference in the flow .
+I was out after this round.
+I would suggest to filter candidate based on resume and experience.Who can answer your design uber question. have a plan to filter a candidate
+Show Less
+
+Interview Questions
+
+design uber
+design messaging queue like JMS
+explain oauth flow 
+
+
+
+Round 1:
+Never understood what was the purpose of the interview. Questions were getting shooted like interviewer knows everything. For anything which you are not comfortable with, if you say you are not comfortable then he got more interested in that topic. He was trying to prove he knows everything instead of judging me if I am best fit for position or not. Asked about how https works, he repeated the same thing I said. hahahaha and was trying to proved I am wrong and he was right. He didnt know about Oauth JWT Asymeric and Symetric key but was expecting me to know everything OWASP.
+Round 2:
+Growup guys, I mean seriously, GeeksForGeeks is only destination ? Well he understood only solutions mentioned on GeeksForGeeks. Question picked up from there. Expected answer exactly how was solved there. BTW the question was exactly same what I practiced last night and found solution excepted by hackerrank passing all the test cases. But he was expecting me to write the solution which was available on site. And funniest part I was asked to write the solution on paper pen, so when I completed the solution he was matching the opening and closing braces for solution written on multiple papers instead of checking for logic and running test example to prove the solution.
+Guys, you are interviewing a candidate for a position in reputed organization. Respect your role as interviewer. Stop being childish.
+Show Less
+
+Interview Questions
+
+Round 1:
+1. Kafka Architecture
+2. Working of composite index
+3. Interviewers own version of web security
+4. Interviewers own version of HTTPS
+5. CSRF SQL Injection OWASP.
+6. Redis Architecture
+
+Round 2:
+1. Shift all even nodes to one side and odd nodes to other side
+2. Form the sum n from coins in bag with picking either 1 or 3 coins at a time. Find number of ways to make the given sum. All coins have same value
+3. Two integer arrays. Find pair of indexes of pair with given sum
+
+There were 4 rounds. 
+ 
+ Round 1: 1.5 hours Online Test 
+ 
+ - Section 1: MCQ test with 30 questions on DS, Java, SQL 
+ - Section 2: Online Coding 1 question - Modified Longest Common Palindromic Substring 
+ 
+ Round 2: Face 2 Face - DS & Algo
+ 
+ Interviewer expected logic + pseudo codes followed by neat and clean complete code with all conditions !!
+ Q1. Search element in sorted rotated array
+ Q2. Prefix, Infix and Postfix without using recursion
+ Q3. Given an input JSON object. Create a web services in Java. The response should return another JSOn object. Explain with full code and dependencies.
+ 
+ Round 3: Face 2 Face - Design 
+ 
+ Q1. Design LRU and LFU. Explain data structure to be used.
+ Q2. Interviewer explained a card game. The question was to design that card game using an appropriate design pattern. I used Abstract factory design pattern. Interviewer asked me to write complete code as well. Done!
+ 
+ Round 4: Managerial Round
+ 
+ It was all about explaining the personal projects in details. Interviewer asked many questions on my personal projects - approach, ideas, technologies. It was followed by some behavioural interview questions as well.
+ 
+ Finally, A quick HR round !!
