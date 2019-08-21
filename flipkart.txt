@@ -1,0 +1,213 @@
+But, I highly doubt that'll be the case. Also, the job description mentions professional experience in any one language. However, the question require them to use language like Java, Python which can parse the strings using library functions.
+
+
+Ist f2f round was also and ps round. 2nd was design and 3rd was hiring manager.
+Show Less
+
+Interview Questions
+
+given a matrix of positive and negative numbers. minimum value to start with to reach end cell. you cannot cross a cell if value becomes nefative  
+1 Answer
+count commected components in matrix  
+1 Answer
+design chess  
+Answer Question
+given an array, find max diff such that larger number is after smaller numb
+
+Design and Implement movie review system. 
+Design Splitwise. Group contains Users. User can be in multiple Groups. Bill is assigned to a Group. Multiple Users are assigned to a bill. User shares can be divided equally, based on fixed values or by percentage.
+ User can see owe amount group-wise and overall.
+) machine coding round, it's fairly easy. You have to ensure you will modular working code making use of appropriate design patterns 2) DS & algo - more like a discussion, not to difficult to crack if you practice few problems on g4g / leetcode etc
+ 3) system design round : very open ended problem statement. It helps to use your imagination and not just the in no technically 
+Design movie recommendation system
+
+
+Whole process will take one day. I was referred by a consultant - 25th NOV 2018
+There were 4 rounds in the interview process.
+1. Hacker rank test on your personal laptop
+2. Machine Coding
+3. Data structures and algorithms
+4. Design Questions
+
+Interview Questions
+
+1. Hacker rank - Parking lot (cost of parked time for a car) and XML bomb attack problem(EASY).
+2. Design and code Tetris game - machine coding round.
+
+
+
+Write a make script (Evaluate dependencies in a makefile)  
+Answer Question
+Design a text editor  
+Answer Question
+Design a system from news aggregation and summarization 
+questions on project, algorithms
+
+Design patterns were also asked
+
+Interview Questions
+
+Data Structures and algo
+
+
+
+A phone interview, typically for 15-20 minutes. Afterwards, 4 interviews on site. 2 problems solving and coding rounds, one design and one managerial round.
+
+Interview Questions
+
+Design a workflow system. You need to implement pause/continue operations of the workflow using your database. Essentially, the interviewer was looking completely manage workflow system using database.  
+
+
+The aptitude test was conducted using InterviewStreet.com . It contained 10 MCQs and a programming problem. The programming questions was a variation of the coin exchange problem (Dynamic Programming).
+The interview lasted 3 rounds. Each round had questions from Graph Theroy.
+Problems included topics like Minumum Spanning Tree, Shortest Path problem, Toplogoical sort.
+
+Interview Questions
+
+Implement next_permutation functionality in C.
+Print the zig-zag order of a Binary Tree
+
+
+Round 1:
+The person who took this round was very polite and helpful. This 1 was programming round for 2 hours.
+Implement UNDO/REDO functions in Text Editor. You are expected to write test cases as well.
+
+
+You have set of axis, you have to plot a line which has more number of axis in it. (College mathematics question)
+Some puzzle.  
+
+
+
+flipkart visited our campus , they let everyone sit in the interviews . aggregate >=60% . first round was coding round on hackerearth. consisted of 3 ques. (long story type) difficulty was hard although no question from DP was asked. CTC was among best in class and location was baneglore
+
+Interview Questions
+
+prepare for coding round from hackerearth
+
+
+LRU  
+Answer Question
+Alien dictionary (see geeks)  
+Answer Question
+sort array of 0,1,2  
+Answer Question
+
+
+he technical questions were based on Data structures and algorithms. The questions were based on dynamic programming, graphs and few other basic concepts. There were two questions per interview in the technical round. The allotted time was 30 mins whether one can solve it or not (no extra time was provided).
+
+
+If OOP is involved, they will ask you to fulfill certain criteria - the most important being separation of concerns (2). Focus on (1) and (2) above you should be able to pass the test.
+Show Less
+
+Interview Questions
+
+Design a finite state machine
+
+
+nline coding round+ machine coding round and technical interview + hr interview
+in the coding round they asked two question one was a dp problem and second one was on string anagrams
+process took a one day
+
+Interview Questions
+
+Dp problems  
+
+Write a java programme to parse any type of string(it should contain all the operators)
+
+Given a board of snakes and ladders game, provide an algorithm to find the minimum number of dice rolls required to reach 100 from 1
+
+ If there are n number of steps explain the recursive equation if you can take 1,2, or 3 steps to climb the n steps.  
+1 Answer
+2. If you are given a dictionary of lexicographically sorted words, given an algorithm to find the alphabets in the new language.  
+Answer Question
+3. Explain the algorithm on how google does word completion algorithm in search engine
+
+
+First round was coding round and next two were DS/Algo, high level design and low level design.
+
+Interview Questions
+
+Implement a connection pool which clients can use to get an active connection, use it and return it to connection pool when done. If a connection is invalidated, implementation should take care of handling it. For prototype assume a connection library. 
+
+Given a board of snakes and ladders game, provide an algorithm to find the minimum number of dice rolls required to reach 100 from 1 
+
+
+Interview quality was very good. Was being asked Message broker implementation, designing a tic tac toe etc. The interview process took a bit longer than expected. However, in the end, all turned out pretty well and I was made an offer. The manager was very reasonable and willing to help me grow in the team.
+
+Interview Questions
+
+Implementing a message broker
+
+
+Design and implement a Snake and Ladder game  
+Answer Question
+Design a chat application that has options for single and also group chat
+
+
+Online Coding Round,
+Phone Interview,
+Machine Coding Round - Design a library to build an Electric Circuit with given Elements and with some constraints.
+f2f :
+Group anagrams from array of strings,
+Twin primes.
+
+Interview Questions
+
+Design a library to build an Electric Circuit
+The question was a standard DP question. Came up with a recursive approach and later came up with a DP approach, that solved the problem efficiently. There was a datastructure question on the same approach (HashMap v/s Trie). 
+
+I initially had two rounds of telephonic interviews. The questions were based on algo, ds and coding areas like given a singly linked list how do you efficiently determine if that represents a palindrome, heap related questions, designing data structure for LRU cache, one simple dp related question i.e. given a 2-D array in which each cell consists of either 'WATER' or 'LAND' and a cell (say (i,j)), we should print out the continuous stretch of area surrounding this cell containing 'LAND'.
+Later i had five onsite interviews:-
+Algo/DS Round:
+1. Given a node in a binary tree, print all nodes that are k units away from this node i.e. the nodes can be parents, children, sibling etc.
+2. Given a boolean expression with n predicates separated by n-1 operators, operator can be either & or | or ^, based on how you group the expression with paranthesis, the value will be evaluated to True or False. Design an algo to count number of such combinations which will evaluate to true.
+Coding Round:
+Implement LRU Cache. i was given a laptop and was asked to code it in an editor of my choice. Basically, i should be able to write well designed syntactically correct modularcode. I choose to implement this in C++. I managed to come up with a working code this in 45 minutes.
+Design Round:
+OO Design:
+Design Snake and Ladder Game?
+DB Design:
+Design schema for n-ary tree with each node having information to only certain set of attributes among name, age, address, value etc. Also, table should store hierarchy information i.e. parent child info. Post that, i was asked to write sql queries for:-
+a. printing out all parents of a given node (use recursive CTE)
+b. printing out all nodes which has exactly two children.
+Bar Raiser Round:
+Was asked to explain the projects and technologies i worked on. The discussion was based around my problems that i tried to solve. I was given one problem based around the Order Management System and the interviewer asked me to make the search service extensible i.e. say if some new category service like apparel is introduced, then search results should show up these results also along with existing results. So, it required strategy pattern to be implemented.
+Hiring Manager:
+It was genral discussion based around analytics, tools, ETL frameworks that i worked on.
+Show Less
+
+Interview Questions
+
+Given a boolean expression with n predicates separated by n-1 operators, operator can be either & or | or ^, based on how you group the expression with paranthesis, the value will be evaluated to True or False. Design an algo to count number of such combinations which will evaluate to true.  
+Answer Question
+Negotiation
+
+Not able to negotiate the offer as they say that the salary is decided on the basis of the interview performance.
+
+Tree and graph problems  
+
+So, here it goes:
+First Round - Machine Coding round.
+Asked to design a multi layered cache. (L1, L2 and L3).
+The question wasn't difficult but the problem lies in their explanation.
+First, they want the functionality should be completely demoed . The time given is 1.5 hours.
+Now they expect the functionality, scalable and design patterns implemented. Isn't that too less time for this type of question.
+What I see the problem is they need o differentiate properly between HLD and LLD questions.  
+
+
+Merge n sorted lists
+
+Interview Questions
+
+Maximumn number of overlapping intervals.
+
+interview involved three rounds, first round was online challenge consisting of 30 questions(28 mcq's and 2 coding questions) for 90 minutes. next round was technical coding on data structures followed by hr interview
+
+Interview Questions
+
+questions related to hashing, trees, data structures and algorithms
+
+Questions spanned vast topics ranging from trees to sorting algorithms  
+
+
+Word break problem
